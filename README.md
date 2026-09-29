@@ -56,7 +56,7 @@
 
 ## 6. 作品連結 (Project Link)
 
-* **核心入口檔案**：[`https://john990809.github.io/413010/`](./https://john990809.github.io/413010/)
+* **核心入口檔案**：[`https://john990809.github.io/413010/`](https://john990809.github.io/413010/)
 * **快速預覽**：直接使用瀏覽器雙擊開啟 `https://john990809.github.io/413010/`，或搭配 VS Code 的 Live Server 套件開啟即可直接遊玩。
 
 ---
