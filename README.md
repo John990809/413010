@@ -9,7 +9,7 @@
 
 ---
 
-## 1. 作品名稱
+## 1. 霓虹節奏遊戲
 * **中文名稱**：Cyber Beat - 霓虹節奏遊戲
 * **英文名稱**：Cyber Beat Rhythm Game
 
